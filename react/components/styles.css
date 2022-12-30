@@ -1,0 +1,41 @@
+/* .container {
+  margin: 10px 18px;
+} */
+
+.title {
+  font-size: 14px;
+  color: #f50;
+}
+
+.contentForm {
+  display: flex;
+  align-items: center;
+}
+
+.label {
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 12px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.inputSKU {
+  outline: none;
+  margin-right: 5px;
+}
+
+.button {
+  background: #f50;
+  height: 23px;
+  border: none;
+  text-transform: capitalize;
+  color     : #fff;
+  font-size : 12px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background: #ccc;
+  font-size : 9px;
+}
